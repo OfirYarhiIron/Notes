@@ -1,6 +1,7 @@
-package android.example.notes
+package android.example.notes.view
 
-import android.example.notes.data.Note
+import android.example.notes.R
+import android.example.notes.data.local.Note
 import android.example.notes.data.NotesRepository
 import android.os.Bundle
 import androidx.fragment.app.Fragment

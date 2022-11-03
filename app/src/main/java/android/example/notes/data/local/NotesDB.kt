@@ -1,4 +1,4 @@
-package android.example.notes.data
+package android.example.notes.data.local
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
